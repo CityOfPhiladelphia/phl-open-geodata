@@ -1,0 +1,63 @@
+NAME,ADDRESS,OPERATOR,ACCEPT_SNA,ACCEPT_FMN,DISTRIBUTE,ONLY_REDEE,EBT_MACHIN,DAY_TIME,ZIP_CODE,LON,LAT,X,Y
+22nd & Tasker (Point Breeze),"22nd St, btwn Tasker and Point Breeze, 19146",The Food Trust,Yes,Yes,Yes,No,Yes,Tu 2-6,19146,-75.18142207,39.93217094,2688731.205,228620.5261
+29th & Wharton (Grays Ferry),"29th and Wharton, 19146",The Food Trust,Yes,Yes,Yes,No,Yes,Tu 2-6,19146,-75.1920371,39.93728902,2685701.583,230397.7747
+33rd & Diamond (Strawberry Mansio,"33rd & Diamond Sts, in front of Mander Playground, 19121",The Food Trust,Yes,Yes,Yes,No,Yes,T 2-6,19121,-75.18706216,39.98867451,2686552.893,249149.147
+58th & Chester (Kingsessing),"58th St & Chester Ave, 19143",The Food Trust,Yes,Yes,Yes,No,Yes,W 2-6,19143,-75.22853606,39.93574182,2675486.907,229540.0835
+Broad and Snyder,"Broad & Snyder Sts, 19148",The Food Trust,Yes,Yes,Yes,No,Yes,Tu 2-7,19148,-75.1697474,39.9244185,2692086.36,225893.0899
+Broad and South,"Broad and South, 19147",The Food Trust,Yes,Yes,Yes,No,Yes,W 2-7,19147,-75.16557712,39.94367385,2693050.261,232938.6582
+Cecil B. Moore,"Cecil B. Moore Ave, btw Broad & 13th Sts, 19122",The Food Trust,Yes,Yes,Yes,No,Yes,Th 2-6,19122,-75.1579174,39.97871693,2694822.432,245761.6627
+Chestnut Hill Growers' Market,"Winston Rd btw Germantown Ave & Mermaid Lane, 19118",Farm to City,Yes,Yes,No,No,Yes*,Sat 9:30-1:30,19118,-75.19733917,40.06771597,2682842.246,277847.182
+Clark Park (both days),"43rd St. and Baltimore Ave., 19104",The Food Trust,Yes,Yes,Yes,No,Yes,Th 2-6; Sat 10-2,19104,-75.20926195,39.94955082,2680744.932,234723.2607
+Cliveden Park,"Chew Ave. and Johnson St., 19119",The Food Trust,Yes,Yes,Yes,No,Yes,W 2-6,19119,-75.17580748,40.05225082,2689030.208,272390.7795
+Dickinson,"E. Moyamensing St and Morris St, 19148",Farm to City,Yes,Yes,Yes,No,Yes*,Sun 10-2,19148,-75.15116237,39.92697131,2697269.338,226975.4544
+Drexel University,"33rd and Market St, 19104",John King,Yes,Yes,No,No,Yes,Tu 11-3,19104,-75.18949132,39.95560227,2686221.771,237086.8435
+East Falls,"Under Rt 1 overpass, between Kelly Dr & Ridge Ave, 19129",Farm to City,Yes,Yes,No,No,Yes,Fri 10-2,19129,-75.20651525,40.01485486,2680829.638,258524.6653
+Fair Food Farmstand @ RTM,"12th St and Arch St, 19107",Fair Food,Yes,No,No,Yes,Yes,Tue-Sat 8-6; Sun 9-,19107,-75.1594374,39.95396279,2694661.122,236735.5511
+Fairhill Square,"4th & Lehigh Ave, 19133",The Food Trust,Yes,Yes,Yes,No,Yes,W 1-5,19133,-75.13835394,39.99186093,2700161.093,250709.203
+Fairmount,"22nd St. and Fairmount Ave., 19130",The Food Trust,Yes,Yes,Yes,No,Yes,Th 3-7,19130,-75.17398597,39.96732323,2690442.225,241481.1561
+Farm 51,"51st & Chester, 19143",Farm 51,Yes,No,No,No,Yes,Th 4:30-7,19143,-75.21903917,39.94241532,2678079.325,232046.2925
+Farmstand at Grumblethorpe House,"5267 Germantown Ave (at Queen Lane), 19144",Grumblethorpe House,Yes,Yes,No,No,Yes,Sat 10-2,19144,-75.16854726,40.03196585,2691277.776,265063.7824
+Fitler Square,"23rd St and Pine St, 19103",The Food Trust,No,Yes,No,Yes,No,Sat 9-2,19103,-75.17932424,39.94734055,2689158.437,234161.3167
+Fountain,"11th St and Tasker St, 19147",Farm to City,Yes,Yes,No,No,Yes*,W 3-7,19147,-75.16309294,39.92980187,2693894.514,227907.9046
+Francisville,"1400 Ridge Ave, 19130",Francisville Neighborhood D,Yes,Yes,Yes,No,Yes,Sat 10-2,19130,-75.1604975,39.9666929,2694228.091,241362.1954
+Frankford & Berks,"Frankford Ave. and E. Berks St., 19125",The Food Trust,Yes,Yes,Yes,No,Yes,Th 2-6,19125,-75.13135803,39.97760917,2702274.367,245577.8579
+Frankford Transportation Center,"Bridge St and Frankford Ave, 19124",The Food Trust,Yes,Yes,Yes,No,Yes,T 2-6,19124,-75.0768437,40.02326707,2717041.913,262660.2824
+Germantown,"6026 Germantown Ave & Walnut Lane, in front of historic",The Food Trust,Yes,Yes,Yes,No,Yes,F 2-6,19144,-75.17800411,40.03970432,2688548.627,267804.3246
+Germantown Kitchen Garden,"215 E. Penn St,19144",Germantown Kitchen Garden,No,Yes,No,No,No,W 3-6:30,19144,-75.16678354,40.0346994,2691742.332,266073.5835
+Girard and 27th,"27th St and Girard Ave, 19130",Farm to City,No,Yes,No,No,No,Sat 10-1,19130,-75.18043764,39.97417839,2688561.972,243924.6385
+Gorgas Park,"Ridge Ave at Acorn St,",Farm to City,Yes,Yes,No,No,Yes,Fri 2-6, ,-75.22129589,40.03752815,2676454.833,266661.8944
+Greensgrow Farm,"2501 E. Cumberland Ave, 19125",Greensgrow Farm & Nursery,Yes,Yes,Yes,No,Yes,Th 2-7;Sat 10-3,19125,-75.12157318,39.97842316,2705006.562,245955.7028
+Growing for Good,"1552 Wadsworth Ave, 19150",Green Sanctuary Earth Insti,No,Yes,No,No,No,W 11-3,19150,-75.17304308,40.0800416,2689508.387,282532.7613
+Haddington- both days,"52nd St and Haverford Ave., 19139",The Food Trust,Yes,Yes,Yes,No,Yes,"W, F 1-5",19139,-75.22459304,39.9649051,2676288.421,240190.9899
+Headhouse,"2nd and Lombard Streets, 19147",The Food Trust,Yes,Yes,Yes,No,Yes,Sun 10-2,19147,-75.14545198,39.94216939,2698706.927,232556.6054
+Henry Got Crops!,"Henry Ave & Cinnaminson St, 19129",Weaver's Way,No,Yes,No,No,No,W 2-5,19129,-75.21977233,40.04910774,2676760.421,270890.6324
+Hunting Park,"W. Hunting Park Ave & Old York Rd, 19140",The Food Trust,Yes,Yes,Yes,No,Yes,Sat 10-2,19140,-75.14718576,40.01661869,2697421.776,259651.0584
+IBC Market,"Courtyard at 1901 Market St, 19103",Farm to City,No,Yes,No,No,No,Th 11-2,19103,-75.17164373,39.95338338,2691246.703,236424.4407
+Jefferson,"10th St and Chestnut, 19107",Farm to City,Yes,Yes,No,No,Yes*,Th 11-3:30,19107,-75.14114555,40.01890605,2699088.242,260533.8532
+Lancaster Ave,"38th and Powelton Sts, 19104",John King,Yes,Yes,No,No,Yes,Sat 10-2,19104,-75.19704188,39.95957405,2684064.088,238471.8126
+MFSP Heritage Farm,"4300 Monument Rd, 19131",Methodist Family Services,Yes,Yes,No,No,Yes,F 3-6,19131,-75.21645794,39.99804865,2678221.465,252324.9338
+Mill Creek Farm,"Brown St & N 49th St, Philadelphia, PA 19139",Mill Creek Farm,Yes,Yes,Yes,No,Yes,Sat 11-2,19139,-75.21850237,39.9661301,2677982.174,240685.9256
+Mt. Airy,"7301 Germantown Ave, 19119",Farm to City,Yes,Yes,No,No,Yes*,Tu 3-7,19119,-75.19226423,40.06179978,2684324.439,275734.0082
+New Growth Project,"27th & Master Sts, 19121",New Growth Project/ Maratho,Yes,No,No,No,Yes,Sat 9:30-2:30,19121,-75.17978124,39.97719789,2688713.853,245029.4759
+Norris Square Park,"Diamond & Hancock Sts, 19122",The Food Trust,Yes,Yes,Yes,No,Yes,Sat 10-2,19122,-75.13578325,39.98201855,2700987.191,247146.6781
+Olney Transportation Center,"NW corner Broad St & Olney Ave,19141",The Food Trust,Yes,Yes,Yes,No,Yes,T 2-6,19141,-75.14475191,40.03908202,2697861.811,267850.6035
+Overbrook,"Lancaster Ave & City Ave, at the Overbrook Presbyterian",The Food Trust,Yes,Yes,Yes,No,Yes,Sat 9-1,19151,-75.25400244,39.98831396,2667807.166,248480.6803
+Oxford Circle,"900 East Howell St, 19149",The Food Trust,Yes,Yes,Yes,No,Yes,Th 2-6,19149,-75.09103872,40.03822752,2712904.144,267987.6492
+Piazza,"2nd St and Germantown, 19123",Independent- Piazza,No,Yes,No,No,No,Sat 10-2,19123,-75.14145506,39.96063979,2699628.456,239315.1808
+Reading Terminal Market,"12th St and Arch St, 19107",Farm to City,No,Yes,No,No,Yes*,Mon-Sat 8-6; Sun 9-,19107,-75.1594374,39.95396279,2694661.122,236735.5511
+Rittenhouse,"18th St and Walnut St, 19103",Farm to City,Yes,Yes,No,No,Yes*,Tu 10-1; Sat- 9-3,19103,-75.17067028,39.95014093,2691553.989,235251.7478
+Schuylkill River Park,"25th St. and Spruce Sts, 19103",The Food Trust,No,Yes,No,Yes,No,W 3-7,19103,-75.18113587,39.94901763,2688632.944,234757.2076
+SEPTA farmstand,"12th & Market Sts,19102, concourse level",Enterprise Center/FTC,Yes,No,No,No,Yes,Wed 11-2 (every oth,19102,-75.15988718,39.9519224,2694556.878,235988.8987
+SHARE Food Program,"2901 W. Hunting Park Avenue, Philadelphia, PA",SHARE,No,Yes,No,No,No,Mon-Sat 9-3,19129,-75.17668363,40.00606352,2689275.242,255565.5284
+Shar-Nels Farmstand,"21st & West Susquehanna Ave, 19132",Nelson Jones,Yes,Yes,No,No,Yes,"Th,Fri 10-5; Sat 9-",19132,-75.1676354,39.9877612,2692003.823,248975.1432
+South and Passyunk,"South St and Passyunk Ave, 19147",Farm to City,Yes,Yes,No,No,Yes*,Tu 2:30-7,19147,-75.15040947,39.94178381,2697321.592,232375.2572
+Suburban Station,"16th St and JFK, 19103",Farm to City,Yes,Yes,No,No,Yes*,Th 12-6:30,19103,-75.16467211,39.96286039,2693099.328,239932.399
+The Porch at 30th St Station,"Between south side of 30th St Station & Market St, 19104",Farm to City,Yes,Yes,No,No,Yes,W 11-2,19104,-75.18333683,39.95482808,2687954.61,236855.0166
+The Schuylkill Center Farmers Mar,"Ridge Ave & Port Royal Rd, at the U-haul parking lot, 19","Urban Girls Produce, Schuyl",No,Yes,No,No,No,T 2-6,19128,-75.23818438,40.05978043,2671497.361,274629.8148
+University Square,"36th St and Walnut St, 19104",Farm to City,Yes,Yes,No,No,Yes*,W 10-3,19104,-75.19478911,39.95315132,2684763.025,236151.3694
+Urban Tree Harvest Farmstand,"53rd, between Wyalusing & Poplar Sts, 19131",Urban Tree Connection/Neigh,Yes,Yes,No,No,Yes,Sat 10-2,19131,-75.22705674,39.97032746,2675541.692,242145.7143
+Wadsworth,"E. Wadsworth Ave & Bayard St, 19150",John King,Yes,Yes,No,No,Yes*,F 10-2,19150,-75.17311397,40.0799715,2689489.304,282506.6569
+Walnut Hill Farmstand,"4610 Market St, 19139",Enterprise Center/FTC,Yes,Yes,No,No,Yes,Tu & Fri 3:30-6:30,19139,-75.21314591,39.95854322,2679562.354,237966.3785
+Weaver's Way Community Programs F,"8424 Germantown Ave, 19118",Weaver's Way,No,Yes,No,No,No,Tu 3-6,19118,-75.2052986,40.07536294,2680535.222,280567.4108
+Weaver's Way Farmstand- Mt. Airy,"Carpenter Lane and Greene St, 19119 (in front of High Po",Weaver's Way/FTC,No,Yes,No,No,Yes,Th 3-7,19119,-75.19591535,40.04638662,2683465.262,270092.0225
+West Oak Lane,"72nd Ave and Ogontz Ave, 19138",The Food Trust,Yes,Yes,Yes,No,Yes,Tu 2-6,19138,-75.153516,40.06429505,2695138.935,276959.0582
