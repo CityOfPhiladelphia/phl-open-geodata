@@ -1,6 +1,6 @@
 # PHL Open Geodata
 
-A collection of geospatial data sets from th City of Philadelphia.
+A collection of geospatial data sets from the City of Philadelphia.
 
 ## Data Source
 
