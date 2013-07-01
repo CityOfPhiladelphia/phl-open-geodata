@@ -20,3 +20,10 @@ Convert geospatial data in Shapefiles to alternate formats for easier use and en
 ## Tools
 
 There are lots of tools that can be used to convert Shaepfiles to alternate formats. Check out CartoDB, [ogr2ogr](http://www.gdal.org/ogr2ogr.html), [File Bakery](http://filebakery.com/) or one of the many other tools available that supports file conversion. Pick your favorite.
+
+## Notes
+
+GeoJSON, JSON and KMZ files are in [WGS84](http://spatialreference.org/ref/epsg/4326/).
+Shapefiles are in [NAD83 Pennsylvania South](http://spatialreference.org/ref/epsg/2272/).
+Farmers' Market point CSV file has both lat/longs and x/y in the above spatial references.
+The JSON file has geometries represented as GeoJSON, as opposed to [WKT](http://en.wikipedia.org/wiki/Well-known_text).
