@@ -23,7 +23,7 @@ There are lots of tools that can be used to convert Shaepfiles to alternate form
 
 ## Notes
 
-GeoJSON, JSON and KMZ files are in [WGS84](http://spatialreference.org/ref/epsg/4326/).
-Shapefiles are in [NAD83 Pennsylvania South](http://spatialreference.org/ref/epsg/2272/).
-Farmers' Market point CSV file has both lat/longs and x/y in the above spatial references.
-The JSON file has geometries represented as GeoJSON, as opposed to [WKT](http://en.wikipedia.org/wiki/Well-known_text).
+* GeoJSON, JSON and KMZ files are in [WGS84](http://spatialreference.org/ref/epsg/4326/).
+* Shapefiles are in [NAD83 Pennsylvania South](http://spatialreference.org/ref/epsg/2272/).
+* Farmers' Market point CSV file has both lat/longs and x/y in the above spatial references.
+* The JSON file has geometries represented as GeoJSON, as opposed to [WKT](http://en.wikipedia.org/wiki/Well-known_text).
