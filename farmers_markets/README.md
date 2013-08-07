@@ -11,6 +11,7 @@ Farmers' Markets as of 1/18/2013
 `OPERATOR` Operator of farmers’ markets
 
 `ACCEPT_SNA` Accepts Supplemental Nutrition Assistance Program (SNAP) 
+
 `ACCEPT_FMN` Accepts Farmers' Market Nutrition Program
 
 `DISTRIBUTE` Distributes Food Bucks

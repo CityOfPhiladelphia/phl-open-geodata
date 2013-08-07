@@ -1,0 +1,176 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>Philadelphia School Facilities</title>
+				<geoform>vector digital data</geoform>
+				<origin>Philadelphia City Planning Commission</origin><pubdate>201203</pubdate><onlink>http://www.pasda.psu.edu</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>The location of schools in the City of Philadelphia with attribute information for address, grade level, type, and status indicating whether the school is open, proposed for closure or closed. The status field is intended to provide up to date information on school facility management conducted by all institution types.
+
+
+KEY ATTRIBUTE FIELDS
+
+
+GradeLevel – generalized description of grade levels as elementary, middle or high school
+
+GradeOrg – Grade Organizational Levels - estimate of grade levels range at the school, e.g., K-5
+
+Instit_Type – Institutional Type - public, private, parochial or charter
+
+Active – The current designation as active, closed or closing with expected closure date.
+</abstract>
+			<purpose>The point locations of public, private, parochial and charter schools in the City of Philadelphia. Date updated: 3/20/12 Metadata updated: 3/20/12</purpose>
+		</descript>
+		<spdom>
+			<bounding>
+				<westbc>-75.270816</westbc>
+				<eastbc>-74.969325</eastbc>
+				<northbc>40.135286</northbc>
+				<southbc>39.889986</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>School</themekey>
+				<themekey>Philadelphia</themekey>
+				<themekey>society</themekey></theme>
+		</keywords>
+		<useconst>The point locations of public, private, parochial and charter schools in the City of Philadelphia. Date updated: 3/20/12 Metadata updated: 3/20/12</useconst>
+		<datacred>Data prepared by the Philadelphia City Planning Commission in cooperation with the School District of Philadelphia, Archdiocese of Philadelphia, and the Mayor’s Office.
+
+Pauline Loughlin
+Philadelphia City Planning Commission
+GIS Division
+Pauline.Loughlin@phila.gov
+215-683-4615
+
+Octavia Howell
+Philadelphia City Planning Commission
+Strategic Planning and Policy Division
+Octavia.Howell@phila.gov
+215-683-4615
+
+</datacred>
+		<ptcontac><cntinfo><cntvoice>215-683-4615</cntvoice><cntemail>Pauline.Loughlin@phila.gov</cntemail><cntperp><cntper>Pauline Loughlin</cntper><cntorg>Philadelphia City Planning Commission</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype></cntaddr><cntvoice>215-683-4615</cntvoice><cntemail>Octavia.Howell@phila.gov</cntemail><cntinst>Octavia Howell Philadelphia City Planning Commission Strategic Planning and Policy Division Octavia.Howell@phila.gov 215-683-4615</cntinst></cntinfo></ptcontac><timeperd><timeinfo><sngdate><caldate>201203</caldate></sngdate></timeinfo><current>publication date</current></timeperd><status><progress>Complete</progress><update>As needed</update></status></idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>567</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Lambert Conformal Conic</mapprojn>
+					<lambertc>
+						<stdparll>39.93333333333333</stdparll>
+						<stdparll>40.96666666666667</stdparll>
+						<longcm>-77.75</longcm>
+						<latprjo>39.33333333333334</latprjo>
+						<feast>1968500.0</feast>
+						<fnorth>0.0</fnorth>
+					</lambertc>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000000026907964745248598</absres>
+						<ordres>0.000000026907964745248598</ordres>
+					</coordrep>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>D North American 1983</horizdn>
+				<ellips>GRS 1980</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257222101</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>PhiladelphiaSchool_Facilities201302</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FACIL_ID</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>INSTIT_ID</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>FACIL_NAME</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>FACIL_ADDR</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>GRADE_LEVE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>GRADE_ORG</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>FACIL_TELE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>ZIPCODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>TENCODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>ST_CODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>FACIL_TYPE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>INSTIT_TYP</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>ENROLLMENT</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>ACTIVE</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+	<metainfo>
+		<metd>20120330</metd>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metc><cntinfo><cntperp><cntorg>Philadelphia City Planning Commission</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>1515 Arch Street</address><city>Philadelphia</city><state>Pennsylvania</state><postal>19102</postal><country>United States</country></cntaddr><cntvoice>215-683-4615</cntvoice><cntemail>Pauline.Loughlin@phila.gov</cntemail></cntinfo></metc></metainfo>
+	<distinfo><distrib><cntinfo><cntperp><cntorg>Pennsylvania Spatial Data Access (PASDA)</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>115 Land and Water building</address><city>University Park</city><state>Pennsylvania</state><postal>16802</postal><country>United States</country></cntaddr><cntvoice>(814) 865 - 8792</cntvoice><cntemail>pasda@psu.edu</cntemail></cntinfo></distrib><distliab>The USER shall indemnify, save harmless, and, if requested, defend those parties involved with the development and distribution of this data, their officers, agents, and employees from and against any suits, claims, or actions for injury, death, or property damage arising out of the use of or any defect in the FILES or any accompanying documentation. Those parties involved with the development and distribution excluded any and all implied warranties, including warranties or merchantability and fitness for a particular purpose and makes no warranty or representation, either express or implied, with respect to the FILES or accompanying documentation, including its quality, performance, merchantability, or fitness for a particular purpose. The FILES and documentation are provided "as is" and the USER assumes the entire risk as to its quality and performance. Those parties involved with the development and distribution of this data will not be liable for any direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the FILES or any accompanying documentation.</distliab></distinfo></metadata>
