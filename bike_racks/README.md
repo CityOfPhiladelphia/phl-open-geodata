@@ -1,6 +1,6 @@
 ## Bike Rack Locations
 
-** Description **
+**Description**
 
 Bike rack locations in the City of Philadelphia, compiled by the [Mayor's Office of Transportation and Utilities](http://www.phila.gov/motu/index.html).
 
