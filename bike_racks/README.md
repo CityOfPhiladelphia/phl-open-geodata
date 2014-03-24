@@ -21,12 +21,29 @@ Bicycle rack locations are part of an ongoing effort by the Mayor's Office of Tr
 **Rack Types**
 
 * Converted Parking Meter
+
+![Converted Parking Meter](rack_type_photos/converted_parking_meter.jpg)
+ 
 * Hitch Style
+
+![Hitch Style](rack_type_photos/hitch_rack.jpg)
+
 * Other
 * School Yard
+
+![School Yard](rack_type_photos/school_yard_rack.jpg)
+
 * Staple or Inverted-U
+
+![Staple or Inverted-U](rack_type_photos/inverted_u_rack.png)
+
 * Street Corral
+
+![Street Corral](rack_type_photos/on_street_corral.jpg)
+
 * Wave
+
+![Wave Rack](rack_type_photos/wave_rack.png)
 
 **License**
 
