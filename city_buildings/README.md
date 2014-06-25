@@ -7,7 +7,7 @@ Inventory of fixed assets owned or leased by the City of Philadelphia including 
 Also included facilities and fixed assets that have received Capital Program funding (also known as Capital Facilities) including:  administrative or multi-purpose buildings, athletic fields, airfields and airport buildings, bridges, ball courts, fire stations, health centers, libraries, museums, plazas, parks and park buildings, playground equipment, piers, police stations, pools, recreation centers and buildings, radio towers, water and waste water facilities, etc.  This database is UNDER DEVELOPMENT and attributes and features are subject to change. 
 PCPC does not warranty the accuracy of the information.  
 
-Attributes Updated: 4/1/14 
+Attributes Updated: 4/1/14
 Features Updated: 4/1/14  
 Metadata Updated: 4/1/14  
 Update Frequency: As Needed  
