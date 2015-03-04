@@ -2,9 +2,7 @@
 
 ### Summary
 
-Reported bicycle thefts to the Philadelphia Police Department from the 2010-01-01 to 2013-09-16 in shapefile (zipped and unzipped), KMZ, CSV and GeoJSON formats.
-
-Additional bicycle theft data from 9/15/2014 to 2/8/2015 is available for export at: [http://phl.maps.arcgis.com/home/item.html?id=15feb954cd6f4b59ad5ef086a1d4f38f](http://phl.maps.arcgis.com/home/item.html?id=15feb954cd6f4b59ad5ef086a1d4f38f)
+Reported bicycle thefts to the Philadelphia Police Department from the 2010-01-01 to 2013-09-16 in shapefile (zipped and unzipped), KMZ, CSV and GeoJSON formats with titles indicated as Part 1.  Additional bicycle theft data from 9/15/2014 to 2/8/2015 are available in files labeled Part 2.
 
 ### Data Development
 Data comes directly from the Police Departments mainframe INCT system. The INCT system is fed by field incident reports and Computer Aided Dispatch system.
